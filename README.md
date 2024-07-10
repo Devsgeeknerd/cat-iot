@@ -15,6 +15,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
 
 * **Hardware para IoT:** Componentes de hardware usados em projetos de IoT.
   * Microcontroladores e microprocessadores;
+  * Sensores e atuadores (tipos e aplicações);
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
