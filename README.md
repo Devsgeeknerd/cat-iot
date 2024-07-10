@@ -41,6 +41,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Coleta e armazenamento de dados IoT;
   * Processamento de dados em tempo real;
   * Análise de grandes volumes de dados;
+  * Ferramentas de visualização e análise.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
