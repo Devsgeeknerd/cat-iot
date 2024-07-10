@@ -55,6 +55,7 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 > **Dicas de Estudo:**
 >
 > * Prática Contínua:
+>   * Trabalhe em projetos práticos para aplicar os conceitos aprendidos.
 
 <!-- Informações -->
 ## &#8505; Informações
