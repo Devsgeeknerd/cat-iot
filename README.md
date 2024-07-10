@@ -20,6 +20,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Montagem e integração de dispositivos IoT.
 
 * **Protocolos e Redes de Comunicação:** Protocolos e redes usadas na comunicação entre dispositivos IoT;
+  * Protocolos de rede;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
