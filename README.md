@@ -61,6 +61,7 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 >   * Obtenha certificações reconhecidas para validar suas habilidades.
 >
 > * Participação em Comunidades:
+>   * Envolva-se em comunidades de IoT para trocar conhecimentos e resolver problemas.
 
 <!-- Informações -->
 ## &#8505; Informações
