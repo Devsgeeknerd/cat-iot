@@ -23,6 +23,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Protocolos de rede;
   * Redes de área pessoal (PAN), locais (LAN) e de longa distância (WAN);
   * Segurança e gerenciamento de redes IoT;
+  * Interoperabilidade entre dispositivos e sistemas.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
