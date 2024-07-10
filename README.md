@@ -31,7 +31,8 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Monitoramento e análise de dados;
   * Implementação e escalabilidade de soluções IoT.
 
-* **Segurança em IoT:** práticas de segurança para proteger dispositivos e dados IoT.
+* **Segurança em IoT:** Práticas de segurança para proteger dispositivos e dados IoT.
+  * Ameaças e vulnerabilidades em sistemas IoT;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
