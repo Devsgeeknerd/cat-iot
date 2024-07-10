@@ -25,6 +25,8 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Segurança e gerenciamento de redes IoT;
   * Interoperabilidade entre dispositivos e sistemas.
 
+* **Plataformas de Desenvolvimento IoT:** Ferramentas e plataformas para desenvolvimento e gerenciamento de soluções IoT.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
