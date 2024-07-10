@@ -43,6 +43,8 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Análise de grandes volumes de dados;
   * Ferramentas de visualização e análise.
 
+* **Desenvolvimento de Aplicações IoT:** Criação de aplicações práticas utilizando dispositivos IoT.
+
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
 <!-- Informações -->
