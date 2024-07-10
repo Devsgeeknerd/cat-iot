@@ -3,6 +3,12 @@
 
 ***Conteúdo da Categoria:***
 
+A categoria Internet das Coisas (IoT) é essencial para aqueles que desejam criar e implementar soluções conectadas.
+
+Ao completar esta categoria, você terá habilidades robustas em:
+
+Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
+
 <!-- Informações -->
 ## &#8505; Informações
 
