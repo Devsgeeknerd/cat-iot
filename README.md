@@ -11,6 +11,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Definição e história da IoT;
   * Componentes da IoT (sensores, atuadores, redes, plataformas);
   * Arquitetura e modelos de IoT;
+  * Aplicações da IoT em diferentes indústrias.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
