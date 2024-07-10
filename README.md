@@ -19,7 +19,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Comunicação e conectividade (wi-fi, bluetooth);
   * Montagem e integração de dispositivos IoT.
 
-* **Protocolos e Redes de Comunicação:** Protocolos e redes usadas na comunicação entre dispositivos IoT;
+* **Protocolos e Redes de Comunicação:** Protocolos e redes usadas na comunicação entre dispositivos IoT.
   * Protocolos de rede;
   * Redes de área pessoal (PAN), locais (LAN) e de longa distância (WAN);
   * Segurança e gerenciamento de redes IoT;
