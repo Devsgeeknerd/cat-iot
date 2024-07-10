@@ -29,7 +29,9 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Plataformas de desenvolvimento;
   * Desenvolvimento de aplicações IoT;
   * Monitoramento e análise de dados;
-  * Implementação e escalabilidade de soluções IoT;
+  * Implementação e escalabilidade de soluções IoT.
+
+* **Segurança em IoT:** práticas de segurança para proteger dispositivos e dados IoT.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
