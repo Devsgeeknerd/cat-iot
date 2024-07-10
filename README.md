@@ -17,6 +17,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Microcontroladores e microprocessadores;
   * Sensores e atuadores (tipos e aplicações);
   * Comunicação e conectividade (wi-fi, bluetooth);
+  * Montagem e integração de dispositivos IoT;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
