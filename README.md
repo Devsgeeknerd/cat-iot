@@ -39,6 +39,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
 
 * **Análise de Dados em IoT:** Técnicas para coleta, processamento e análise de dados gerados por dispositivos IoT.
   * Coleta e armazenamento de dados IoT;
+  * Processamento de dados em tempo real;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
