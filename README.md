@@ -21,6 +21,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
 
 * **Protocolos e Redes de Comunicação:** Protocolos e redes usadas na comunicação entre dispositivos IoT;
   * Protocolos de rede;
+  * Redes de área pessoal (PAN), locais (LAN) e de longa distância (WAN);
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
