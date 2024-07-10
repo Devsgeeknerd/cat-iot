@@ -44,6 +44,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Ferramentas de visualização e análise.
 
 * **Desenvolvimento de Aplicações IoT:** Criação de aplicações práticas utilizando dispositivos IoT.
+  * Desenvolvimento de software para dispositivos IoT;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
