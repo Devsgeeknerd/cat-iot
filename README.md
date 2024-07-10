@@ -28,6 +28,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
 * **Plataformas de Desenvolvimento IoT:** Ferramentas e plataformas para desenvolvimento e gerenciamento de soluções IoT.
   * Plataformas de desenvolvimento;
   * Desenvolvimento de aplicações IoT;
+  * Monitoramento e análise de dados;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
