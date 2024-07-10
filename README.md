@@ -53,6 +53,8 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 
 > [!IMPORTANT]\
 > **Dicas de Estudo:**
+>
+> * Prática Contínua:
 
 <!-- Informações -->
 ## &#8505; Informações
