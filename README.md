@@ -35,6 +35,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Ameaças e vulnerabilidades em sistemas IoT;
   * Criptografia e autenticação;
   * Boas práticas de segurança em desenvolvimento e implantação;
+  * Regulamentação e conformidade em IoT.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
