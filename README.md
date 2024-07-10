@@ -64,6 +64,7 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 >   * Envolva-se em comunidades de IoT para trocar conhecimentos e resolver problemas.
 >
 > * Atualização Constante:
+>   * Mantenha-se atualizado com as últimas pesquisas e avanços na área de IoT.
 
 <!-- Informações -->
 ## &#8505; Informações
