@@ -58,6 +58,7 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 >   * Trabalhe em projetos práticos para aplicar os conceitos aprendidos.
 >
 > * Certificações:
+>   * Obtenha certificações reconhecidas para validar suas habilidades.
 
 <!-- Informações -->
 ## &#8505; Informações
