@@ -47,6 +47,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
   * Desenvolvimento de software para dispositivos IoT;
   * Integração com sistemas móveis e web;
   * Prototipagem de soluções IoT;
+  * Estudos de caso de projetos IoT bem-sucedidos.
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
