@@ -46,6 +46,7 @@ Ao completar esta categoria, você terá habilidades robustas em:
 * **Desenvolvimento de Aplicações IoT:** Criação de aplicações práticas utilizando dispositivos IoT.
   * Desenvolvimento de software para dispositivos IoT;
   * Integração com sistemas móveis e web;
+  * Prototipagem de soluções IoT;
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
