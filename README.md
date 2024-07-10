@@ -51,6 +51,8 @@ Ao completar esta categoria, você terá habilidades robustas em:
 
 Essas competências são fundamentais para resolver problemas complexos e desenvolver soluções inovadoras em diversos setores.
 
+> [!IMPORTANT]\
+
 <!-- Informações -->
 ## &#8505; Informações
 
