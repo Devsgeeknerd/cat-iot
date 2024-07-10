@@ -59,6 +59,8 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 >
 > * Certificações:
 >   * Obtenha certificações reconhecidas para validar suas habilidades.
+>
+> * Participação em Comunidades:
 
 <!-- Informações -->
 ## &#8505; Informações
