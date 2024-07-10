@@ -62,6 +62,8 @@ Essas competências são fundamentais para resolver problemas complexos e desenv
 >
 > * Participação em Comunidades:
 >   * Envolva-se em comunidades de IoT para trocar conhecimentos e resolver problemas.
+>
+> * Atualização Constante:
 
 <!-- Informações -->
 ## &#8505; Informações
